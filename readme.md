@@ -1,5 +1,5 @@
-##Eat, pray, /love!
-#For the optimistic people.
+#Eat, pray, /love!
+##For the optimistic people.
 
 Have you ever felt so strongly about something you had to positively SMOTHER it? Maybe you want your incessant smothering broadcast to all of your peers? Well, this is the plugin for you!
 
