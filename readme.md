@@ -5,3 +5,5 @@ Have you ever felt so strongly about something you had to positively SMOTHER it?
 
 Usuage is simple, as its only one command!
 /love <object of desire>
+
+####Not under active development, however the plugin still works fine.
