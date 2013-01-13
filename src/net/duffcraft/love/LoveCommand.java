@@ -17,7 +17,7 @@ public class LoveCommand
       player.sendMessage(ChatColor.LIGHT_PURPLE + "Usage: /love <object of desire>");
     }
     else {
-      String plrname = player.getName();
+      String plrname = player.getDisplayName();
       String victim = mkstring(0, args, " ");
       LoveMsg(victim, plrname);
     }
