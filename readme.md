@@ -6,4 +6,4 @@ Have you ever felt so strongly about something you had to positively SMOTHER it?
 Usuage is simple, as its only one command!
 /love <object of desire>
 
-####Not under active development, however the plugin still works fine.
+####Plugin originally by the amazing [DuffCraft](https://github.com/DuffCraft/Love) - I've made a few changes here and there to suit my needs. Check the commits!
