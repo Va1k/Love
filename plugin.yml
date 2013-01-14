@@ -1,3 +1,10 @@
 name: Love
 version: 1.3b2
 main: net.duffcraft.love.Love
+
+commands:
+   love:
+      description: Shows your love for something
+      usage: /love <noun>
+      permission: love.love
+      permission-message: You don't have <permission>
